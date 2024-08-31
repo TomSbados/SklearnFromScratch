@@ -11,3 +11,9 @@ All it takes to make predictions is a little calculus and linear algebra.
 <p align="center">
  <img width="400" src="Regression_fit.png" alt="reg"/>
 </p>
+
+Here is what we get for our logistic regression plot:
+
+<p align="center">
+ <img width="400" src="3d logregressionplot.png" alt="logreg"/>
+</p>
