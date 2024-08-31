@@ -15,5 +15,5 @@ All it takes to make predictions is a little calculus and linear algebra.
 Here is what we get for our logistic regression plot:
 
 <p align="center">
- <img width="400" src="logregressionplot.png" alt="logreg"/>
+ <img width="400" src="logregressionplot-2.png" alt="logreg"/>
 </p>
