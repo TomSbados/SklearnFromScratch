@@ -1,4 +1,10 @@
 <p align="center">
+ <img width="400" src="KMean.png" alt="kmeans"/>
+</p>
+
+Above is our output for KMeans clustering.
+
+<p align="center">
  <img width="400" src="3d Regression.png" alt="3dreg"/>
 </p>
 
