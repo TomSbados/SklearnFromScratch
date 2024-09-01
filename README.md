@@ -1,5 +1,5 @@
 <p align="center">
- <img width="400" src="KMean.png" alt="kmeans"/>
+ <img width="400" src="Kmean.png" alt="kmeans"/>
 </p>
 
 Above is our output for KMeans clustering.
